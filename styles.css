@@ -5,10 +5,11 @@
   box-sizing: border-box; /* Add this for better layout control */
 }
 body {
-background: linear-gradient(to bottom,  #7d7e7d 0%,#0e0e0e 100%);
+background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%); 
     font-family: "Bricolage Grotesque", sans-serif;
   color: white;
 }
+
 .main {
   width: 800px;
   height: 100%;
