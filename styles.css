@@ -8,7 +8,6 @@ body {
 background: linear-gradient(to bottom,  #7d7e7d 0%,#0e0e0e 100%);
     font-family: "Bricolage Grotesque", sans-serif;
   color: white;
-  background-color: #000000;
 }
 .main {
   width: 800px;
