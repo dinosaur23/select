@@ -17,3 +17,11 @@ background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%);
   margin-left: auto;
   margin-right: auto;
 }
+
+.top-picture {
+  width: 800px;
+  height: 275px;
+  background-image: url("Welcome to select.png");
+  margin-left: auto;
+  margin-right: auto;
+}
