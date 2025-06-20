@@ -11,6 +11,7 @@ background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%);
 }
 
 .main {
+  padding: 5px;
   width: 800px;
   height: 100%;
   background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); 
@@ -19,6 +20,7 @@ background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%);
 }
 
 .top-picture {
+  padding: 3px;
   width: 800px;
   height: 275px;
   background-image: url("Welcome to select.png");
