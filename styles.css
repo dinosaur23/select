@@ -27,3 +27,17 @@ background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%);
   margin-left: auto;
   margin-right: auto;
 }
+
+div.scroll-container {
+  
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+  height: 167px;
+  border-radius: 50px;
+  width: auto;
+}
