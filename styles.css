@@ -41,3 +41,18 @@ div.scroll-container img {
   border-radius: 50px;
   width: auto;
 }
+
+.top-picture a:link {
+  color: #ffc6c6;
+  text-decoration: none;
+}
+
+.top-picture a:hover {
+  color: #ffc6c6;
+  text-decoration: underline;
+}
+
+.top-picture a:visited {
+  color: #ffc6c6;
+  text-decoration: none;
+}
