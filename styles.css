@@ -5,14 +5,13 @@
   box-sizing: border-box; /* Add this for better layout control */
 }
 body {
-background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%); 
     font-family: "Bricolage Grotesque", sans-serif;
   color: #778899;
 }
 
 .main {
   padding: 5px;
-  width: 800px;
+  width: 100%;
   height: 100%;
   background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); 
   margin-left: auto;
@@ -21,8 +20,8 @@ background: linear-gradient(to bottom,  #3f4c6b 0%,#3f4c6b 100%);
 
 .top-picture {
   padding: 3px;
-  width: 800px;
-  height: 275px;
+  width: 50%;
+  height: auto;
   background-image: url("Welcome to select.png");
   margin-left: auto;
   margin-right: auto;
